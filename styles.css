@@ -1,0 +1,45 @@
+body{margin: 0;
+text-align: center; }
+
+.Topcontainer{
+background-color:#E4F9F5;
+padding-top: 110px;
+position: relative;
+font-family:cursive; }
+
+.cloud-2{position: absolute;}
+
+.cloud-1{position: absolute;
+left: 1100px;
+top: 20px;}
+
+
+
+
+
+.mountain{}
+  hr
+    {height: 10px;
+    width: 5% ;
+  border-color: grey;
+  border-width: 5px;
+      border-style: none ;
+        border-top-style: dotted;}
+
+h1{font-family:cursive;
+color:#8fcfd1;}
+h2{font-family:cursive;}
+h3{font-family:cursive;}
+p{font-family:cursive;
+}
+
+.bottom-container{
+
+font-family: cursive;
+background-color:#8fcfd1;}
+
+.middle-container{
+  font-family: cursive;
+
+
+}
